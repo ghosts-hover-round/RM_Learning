@@ -10,3 +10,11 @@
 ## 文件说明
 - `hello.cpp`: Linux 下的 C++ 编译测试。
 - `peizhi.cpp`: OpenCV 版本读取及环境配置测试。
+  
+## 🚀 效果展示
+
+### 原图 (armor.jpg)
+![原图](armor.jpg)
+
+### 红色灯条提取与框选结果
+![结果图](red_light_contours.jpg)
